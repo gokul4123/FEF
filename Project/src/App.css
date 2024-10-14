@@ -1,0 +1,26 @@
+.boxing{
+  display: flex;
+  background-color: #131921;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.boxes{
+ justify-content: center;
+  align-content: center;
+  width: 20%;
+  gap: 20px;
+  margin-right: 20px;
+  height: 100px;
+  color: rgb(209, 37, 37);
+  border-radius: 20px;
+}
+
+.links{
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+  color: aqua;
+ 
+}

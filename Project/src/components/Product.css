@@ -1,0 +1,19 @@
+
+.layer{
+    border: 2px solid;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    margin: 10px;
+    background: rgba(96, 40, 30, 0.963);
+}
+
+.button-1{
+    margin: 10px;
+    border-radius: 5px;
+    width: 100px;
+    color: black;
+    background: azure;
+}
